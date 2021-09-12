@@ -1,1 +1,1 @@
-Aww Emojis is a React App that is made for the purpose of understanding the Hooks in React. Thank you for coming here, if You like it please give a star😜
+Aww Emojis is a React App that is made for the purpose of understanding the Hooks in React. Thank you for coming here, if you like it please give a star 😜. Just got tired from normal stuff so tried to play with those cuties 😅.
